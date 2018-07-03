@@ -1,0 +1,19 @@
+<nodes>
+
+   <!-- Lato ovest -->
+   <node id="o0" x="0.0" y="0.0" type="unregolated"/>
+   <node id="o1" x="0.0" y="-65.72" type="unregolated"/>
+   <node id="o2" x="0.0" y="-147.872" type="unregolated"/>
+   <node id="o3" x="0.0" y="-197.162" type="unregolated"/>
+
+   <!-- Lato di mezzo -->
+   <node id="m1" x="+1503" y="-65.721" type="unregolated"/>
+   <node id="m2" x="+1503" y="-147.872" type="unregolated"/>
+
+   <!-- Lato est -->
+   <node id="e0" x="1643" y="0.0" type="unregolated"/>
+   <node id="e1" x="1643" y="-65.720" type="unregolated"/>
+   <node id="e2" x="1643" y="-147.872" type="unregolated"/>
+   <node id="e3" x="1643" y="-197.162" type="unregolated"/>
+
+</nodes>
