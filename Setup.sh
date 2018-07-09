@@ -2,7 +2,7 @@
 clear
 
 echo "Coping SUMO maps in ../interface"
-cp -R -v maps/ ../interface/
+cp -R -v maps/ ../carla-sumo-interface/
 
 echo "Coping CARLA maps in ../carla/Unreal/CarlaUE4/Content/Maps"
 cp -R -v *.umap ../carla/Unreal/CarlaUE4/Content/Maps/
